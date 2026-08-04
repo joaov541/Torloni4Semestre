@@ -1,6 +1,17 @@
 {
-    "taskpoin": [
-    {"id": 1, "descricao": "Revisar HTML Semântico"},
-    {"id": 2, "descricao": "Revisar HTML Semântico"}
-    ]
+  "taskpoin": [
+    {
+      "descricao": "Revisar HTML e CSS",
+      "id": "t88wOKfFORI"
+    },
+    {
+      "descricao": "Criar uma tela utilizando react",
+      "id": "w5IusNb7JYI"
+    },
+    {
+      "descricao": "Revisar estrturas HTML e CSS utilizando java script",
+      "id": "yq-RldfSm84"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
